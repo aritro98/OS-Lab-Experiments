@@ -4,4 +4,4 @@ This repository contains a collection of all Operating Systems lab experiments p
 
 ## Structure  
 - Each experiment is organized in its own directory.  
-- Includes source code, explanations, and required documentation.
+- Includes source code, informations etc.
